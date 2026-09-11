@@ -238,3 +238,6 @@ This repository serves as the official landing page for My Cool Desktop. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of My Cool Desktop today!**
+
+---
+**Last updated:** 2026-09-11 14:00:15 UTC
